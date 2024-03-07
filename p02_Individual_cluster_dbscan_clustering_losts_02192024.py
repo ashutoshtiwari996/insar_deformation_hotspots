@@ -476,5 +476,3 @@ plt.show()
 spio.savemat(ppath+'/output_dbscan_frame1.mat', {"mvel_full":mvel_full, "rs_db_full":rs_db_full, "lonlat_full": lonlat_full, "y_predn_full": y_predn_full, "rs_full": rs_full, "lonlat":lonlat});
 
 
-#Hare Krishna
-
