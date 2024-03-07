@@ -21,7 +21,7 @@ The input data for this program can be InSAR displacement time series. The outpu
 **Set of programs for information mining on InSAR derived deformation maps**
 
 For python programs, please install necassary libraries using 
-Use requirements.txt to install necessary libraries for the python programs. The requirements.txt file is available in the Programs directory.
+Use requirements.txt to install necessary libraries for the python programs.
 
 Follow these steps:
 
