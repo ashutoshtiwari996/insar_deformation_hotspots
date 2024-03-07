@@ -1,6 +1,15 @@
-Set of programs for information mining on InSAR derived deformation maps
+#Set of programs for information mining on InSAR derived deformation maps
 
-Sequence of programs and usage
+For python programs, please install necassary libraries using 
+Use requirements.txt to install necessary libraries for the python programs. The requirements.txt file is available in the Programs directory.
+
+Follow these steps:
+
+In your shell (or command prompt)
+
+(i) Go to the directory where requirements.txt is located (ii) activate your virtualenv (if you create a separate virtual envcironment for this program) (iii) run pip install -r requirements.txt
+
+##Sequence of programs and usage
 
 p01_time_series_unsupervised_clustering_rts.py: This program perform time series clustering for InSAR time series displacement using time series k-means algorithm
 
