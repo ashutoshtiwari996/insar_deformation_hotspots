@@ -45,5 +45,7 @@ p04_finding_spatial_correlation_lengths.m: Finding spatial correlation lengths f
 
 p05_spatial_dispersion.m: Finding spatial dispersion of individual clusters generated from p02. Those with large dispersions would be removed.
 
+## Citing our work
+
 Please cite the following if using the program and data:
 Tiwari, Ashutosh; Shirzaei, Manoochehr (2024). A novel machine learning and deep learning semi-supervised approach for automatic detection of InSAR-based deformation hotspots, International Journal of Applied Earth Observation and Geoinformation Volume 126, DOI: [10.1016/j.jag.2023.103611]
