@@ -1,11 +1,12 @@
 # insar_deformation_hotspots
-Deriving spatio-temporal deformation patterns over LA using InSAR and AI​
+
+# Deriving spatio-temporal deformation patterns over LA using InSAR and AI​
 
 The set of programs can be used for post-processing InSAR deformation maps obtained from multi-temporal InSAR processing.
 
-Input: Time series deformation matrix in .mat format (exported from WabInSAR software developed by Manoochehr Shirzaei). WabInSAR software is open access and can be downloaded from the following link: https://sites.google.com/vt.edu/eadar-lab/software
+**Input**: Time series deformation matrix in .mat format (exported from WabInSAR software developed by Manoochehr Shirzaei). WabInSAR software is open access and can be downloaded from the following link: https://sites.google.com/vt.edu/eadar-lab/software
 
-Output: Cluster maps based on time series k-means, dbscan, followed by codes to remove unwanted clusters and merging clusters. 
+**Output**: Cluster maps based on time series k-means, dbscan, followed by codes to remove unwanted clusters and merging clusters. 
 
 Instructions for running the program:
 Use requirements.txt to install necessary libraries for the program. Follow these steps:
