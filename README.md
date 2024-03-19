@@ -45,6 +45,14 @@ p04_finding_spatial_correlation_lengths.m: Finding spatial correlation lengths f
 
 p05_spatial_dispersion.m: Finding spatial dispersion of individual clusters generated from p02. Those with large dispersions would be removed.
 
+## Data files
+      
+elpx_ll.mat: Coordinates for elite pixels
+MVel.mat: One dimensional line of sight velocities
+MVelq.mat: Standard deviation for line of sight velocities
+Pco_m.mat: Mean coherence
+R_TS_den.mat: Displacement time series
+
 ## Citing our work
 
 Please cite the following if using the program and data:
