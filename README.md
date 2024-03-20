@@ -29,6 +29,12 @@ In your shell (or command prompt)
 
 (i) Go to the directory where requirements.txt is located (ii) activate your virtualenv (if you create a separate virtual envcironment for this program) (iii) run pip install -r requirements.txt
 
+## Dataset availabilty
+
+Dataset can be downloaded from the following:
+
+https://data.lib.vt.edu/articles/software/Detecting_deformation_hotspots_from_InSAR_derived_deformation_maps/25402327
+
 ## Sequence of programs and usage
 
 p01_time_series_unsupervised_clustering_rts.py: This program perform time series clustering for InSAR time series displacement using time series k-means algorithm
@@ -60,4 +66,5 @@ R_TS_den.mat: Displacement time series
 ## Citing our work
 
 Please cite the following if using the program and data:
-Tiwari, Ashutosh; Shirzaei, Manoochehr (2024). A novel machine learning and deep learning semi-supervised approach for automatic detection of InSAR-based deformation hotspots, International Journal of Applied Earth Observation and Geoinformation Volume 126, DOI: [10.1016/j.jag.2023.103611]
+
+Tiwari, Ashutosh; Shirzaei, Manoochehr (2024). Detecting deformation hotspots from InSAR derived deformation maps. University Libraries, Virginia Tech. Software. https://doi.org/10.7294/25402327
