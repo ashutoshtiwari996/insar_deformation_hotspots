@@ -1,0 +1,3 @@
+This module gives a semi-supervised machine learning based information mining approach to detect deformation hotspots from InSAR derived displacement maps.
+
+The set of programs can be used for post-processing InSAR deformation maps obtained from multi-temporal InSAR processing.
