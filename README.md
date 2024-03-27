@@ -1,6 +1,6 @@
 # insar_deformation_hotspots
 
-# Deriving spatio-temporal deformation patterns over LA using InSAR and AI​
+# Deriving spatio-temporal deformation patterns using InSAR and AI​
 
 The set of programs can be used for post-processing InSAR deformation maps obtained from multi-temporal InSAR processing.
 
